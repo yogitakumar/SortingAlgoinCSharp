@@ -1,0 +1,13 @@
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\SortingAlgo.exe
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\SortingAlgo.deps.json
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\SortingAlgo.runtimeconfig.json
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\SortingAlgo.runtimeconfig.dev.json
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\SortingAlgo.dll
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\SortingAlgo.pdb
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\SortingAlgo.csprojAssemblyReference.cache
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\SortingAlgo.AssemblyInfoInputs.cache
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\SortingAlgo.AssemblyInfo.cs
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\SortingAlgo.csproj.CoreCompileInputs.cache
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\SortingAlgo.dll
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\SortingAlgo.pdb
+C:\Users\yogit\source\repos\Sorting\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\SortingAlgo.genruntimeconfig.cache
